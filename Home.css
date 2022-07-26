@@ -23,6 +23,8 @@ body
 .ip
 {
 	width: 400px;
+	height: 400px;
+	mmargin: 50%;
 	border:2px solid #19bf7d;
 	outline:none;
 	background:none;
